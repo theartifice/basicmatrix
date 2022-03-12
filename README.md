@@ -1,6 +1,6 @@
 # Basic Matrix Class
 
-This project is a arithmetic class for matrix algebra. The package is also practice for OOP. The package features filling, shape and operations like dot product, addition and subtraction.
+This project is a arithmetic class for matrix algebra in Python. The package is also practice for OOP. The package features filling, shape and operations like dot product, addition and subtraction.
 
 # Required Installation
 
